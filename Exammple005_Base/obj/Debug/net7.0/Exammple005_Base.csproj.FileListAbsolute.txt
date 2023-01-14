@@ -1,0 +1,15 @@
+C:\Сергей\GIK\Лекции\Examples2\Exammple005_Base\obj\Debug\net7.0\Exammple005_Base.csproj.AssemblyReference.cache
+C:\Сергей\GIK\Лекции\Examples2\Exammple005_Base\obj\Debug\net7.0\Exammple005_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Сергей\GIK\Лекции\Examples2\Exammple005_Base\obj\Debug\net7.0\Exammple005_Base.AssemblyInfoInputs.cache
+C:\Сергей\GIK\Лекции\Examples2\Exammple005_Base\obj\Debug\net7.0\Exammple005_Base.AssemblyInfo.cs
+C:\Сергей\GIK\Лекции\Examples2\Exammple005_Base\obj\Debug\net7.0\Exammple005_Base.csproj.CoreCompileInputs.cache
+C:\Сергей\GIK\Лекции\Examples2\Exammple005_Base\bin\Debug\net7.0\Exammple005_Base.exe
+C:\Сергей\GIK\Лекции\Examples2\Exammple005_Base\bin\Debug\net7.0\Exammple005_Base.deps.json
+C:\Сергей\GIK\Лекции\Examples2\Exammple005_Base\bin\Debug\net7.0\Exammple005_Base.runtimeconfig.json
+C:\Сергей\GIK\Лекции\Examples2\Exammple005_Base\bin\Debug\net7.0\Exammple005_Base.dll
+C:\Сергей\GIK\Лекции\Examples2\Exammple005_Base\bin\Debug\net7.0\Exammple005_Base.pdb
+C:\Сергей\GIK\Лекции\Examples2\Exammple005_Base\obj\Debug\net7.0\Exammple005_Base.dll
+C:\Сергей\GIK\Лекции\Examples2\Exammple005_Base\obj\Debug\net7.0\refint\Exammple005_Base.dll
+C:\Сергей\GIK\Лекции\Examples2\Exammple005_Base\obj\Debug\net7.0\Exammple005_Base.pdb
+C:\Сергей\GIK\Лекции\Examples2\Exammple005_Base\obj\Debug\net7.0\Exammple005_Base.genruntimeconfig.cache
+C:\Сергей\GIK\Лекции\Examples2\Exammple005_Base\obj\Debug\net7.0\ref\Exammple005_Base.dll
