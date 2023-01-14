@@ -1,0 +1,15 @@
+C:\Сергей\GIK\Лекции\Examples2\Example008_IntroArrey\bin\Debug\net7.0\Example008_IntroArrey.exe
+C:\Сергей\GIK\Лекции\Examples2\Example008_IntroArrey\bin\Debug\net7.0\Example008_IntroArrey.deps.json
+C:\Сергей\GIK\Лекции\Examples2\Example008_IntroArrey\bin\Debug\net7.0\Example008_IntroArrey.runtimeconfig.json
+C:\Сергей\GIK\Лекции\Examples2\Example008_IntroArrey\bin\Debug\net7.0\Example008_IntroArrey.dll
+C:\Сергей\GIK\Лекции\Examples2\Example008_IntroArrey\bin\Debug\net7.0\Example008_IntroArrey.pdb
+C:\Сергей\GIK\Лекции\Examples2\Example008_IntroArrey\obj\Debug\net7.0\Example008_IntroArrey.csproj.AssemblyReference.cache
+C:\Сергей\GIK\Лекции\Examples2\Example008_IntroArrey\obj\Debug\net7.0\Example008_IntroArrey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Сергей\GIK\Лекции\Examples2\Example008_IntroArrey\obj\Debug\net7.0\Example008_IntroArrey.AssemblyInfoInputs.cache
+C:\Сергей\GIK\Лекции\Examples2\Example008_IntroArrey\obj\Debug\net7.0\Example008_IntroArrey.AssemblyInfo.cs
+C:\Сергей\GIK\Лекции\Examples2\Example008_IntroArrey\obj\Debug\net7.0\Example008_IntroArrey.csproj.CoreCompileInputs.cache
+C:\Сергей\GIK\Лекции\Examples2\Example008_IntroArrey\obj\Debug\net7.0\Example008_IntroArrey.dll
+C:\Сергей\GIK\Лекции\Examples2\Example008_IntroArrey\obj\Debug\net7.0\refint\Example008_IntroArrey.dll
+C:\Сергей\GIK\Лекции\Examples2\Example008_IntroArrey\obj\Debug\net7.0\Example008_IntroArrey.pdb
+C:\Сергей\GIK\Лекции\Examples2\Example008_IntroArrey\obj\Debug\net7.0\Example008_IntroArrey.genruntimeconfig.cache
+C:\Сергей\GIK\Лекции\Examples2\Example008_IntroArrey\obj\Debug\net7.0\ref\Example008_IntroArrey.dll

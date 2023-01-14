@@ -1,0 +1,15 @@
+C:\Сергей\GIK\Лекции\Examples2\Example007_f(MAX)\obj\Debug\net7.0\Example007_f(MAX).csproj.AssemblyReference.cache
+C:\Сергей\GIK\Лекции\Examples2\Example007_f(MAX)\obj\Debug\net7.0\Example007_f(MAX).GeneratedMSBuildEditorConfig.editorconfig
+C:\Сергей\GIK\Лекции\Examples2\Example007_f(MAX)\obj\Debug\net7.0\Example007_f(MAX).AssemblyInfoInputs.cache
+C:\Сергей\GIK\Лекции\Examples2\Example007_f(MAX)\obj\Debug\net7.0\Example007_f(MAX).AssemblyInfo.cs
+C:\Сергей\GIK\Лекции\Examples2\Example007_f(MAX)\obj\Debug\net7.0\Example007_f(MAX).csproj.CoreCompileInputs.cache
+C:\Сергей\GIK\Лекции\Examples2\Example007_f(MAX)\bin\Debug\net7.0\Example007_f(MAX).exe
+C:\Сергей\GIK\Лекции\Examples2\Example007_f(MAX)\bin\Debug\net7.0\Example007_f(MAX).deps.json
+C:\Сергей\GIK\Лекции\Examples2\Example007_f(MAX)\bin\Debug\net7.0\Example007_f(MAX).runtimeconfig.json
+C:\Сергей\GIK\Лекции\Examples2\Example007_f(MAX)\bin\Debug\net7.0\Example007_f(MAX).dll
+C:\Сергей\GIK\Лекции\Examples2\Example007_f(MAX)\bin\Debug\net7.0\Example007_f(MAX).pdb
+C:\Сергей\GIK\Лекции\Examples2\Example007_f(MAX)\obj\Debug\net7.0\Example007_f(MAX).dll
+C:\Сергей\GIK\Лекции\Examples2\Example007_f(MAX)\obj\Debug\net7.0\refint\Example007_f(MAX).dll
+C:\Сергей\GIK\Лекции\Examples2\Example007_f(MAX)\obj\Debug\net7.0\Example007_f(MAX).pdb
+C:\Сергей\GIK\Лекции\Examples2\Example007_f(MAX)\obj\Debug\net7.0\Example007_f(MAX).genruntimeconfig.cache
+C:\Сергей\GIK\Лекции\Examples2\Example007_f(MAX)\obj\Debug\net7.0\ref\Example007_f(MAX).dll

@@ -1,0 +1,15 @@
+C:\Сергей\GIK\Лекции\Examples2\Example010_Method\obj\Debug\net7.0\Example010_Method.csproj.AssemblyReference.cache
+C:\Сергей\GIK\Лекции\Examples2\Example010_Method\obj\Debug\net7.0\Example010_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Сергей\GIK\Лекции\Examples2\Example010_Method\obj\Debug\net7.0\Example010_Method.AssemblyInfoInputs.cache
+C:\Сергей\GIK\Лекции\Examples2\Example010_Method\obj\Debug\net7.0\Example010_Method.AssemblyInfo.cs
+C:\Сергей\GIK\Лекции\Examples2\Example010_Method\obj\Debug\net7.0\Example010_Method.csproj.CoreCompileInputs.cache
+C:\Сергей\GIK\Лекции\Examples2\Example010_Method\bin\Debug\net7.0\Example010_Method.exe
+C:\Сергей\GIK\Лекции\Examples2\Example010_Method\bin\Debug\net7.0\Example010_Method.deps.json
+C:\Сергей\GIK\Лекции\Examples2\Example010_Method\bin\Debug\net7.0\Example010_Method.runtimeconfig.json
+C:\Сергей\GIK\Лекции\Examples2\Example010_Method\bin\Debug\net7.0\Example010_Method.dll
+C:\Сергей\GIK\Лекции\Examples2\Example010_Method\bin\Debug\net7.0\Example010_Method.pdb
+C:\Сергей\GIK\Лекции\Examples2\Example010_Method\obj\Debug\net7.0\Example010_Method.dll
+C:\Сергей\GIK\Лекции\Examples2\Example010_Method\obj\Debug\net7.0\refint\Example010_Method.dll
+C:\Сергей\GIK\Лекции\Examples2\Example010_Method\obj\Debug\net7.0\Example010_Method.pdb
+C:\Сергей\GIK\Лекции\Examples2\Example010_Method\obj\Debug\net7.0\Example010_Method.genruntimeconfig.cache
+C:\Сергей\GIK\Лекции\Examples2\Example010_Method\obj\Debug\net7.0\ref\Example010_Method.dll
