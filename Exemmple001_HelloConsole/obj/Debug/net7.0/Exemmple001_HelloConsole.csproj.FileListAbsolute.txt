@@ -1,0 +1,15 @@
+C:\Сергей\GIK\Лекции\Examples2\Exemmple001_HelloConsole\bin\Debug\net7.0\Exemmple001_HelloConsole.exe
+C:\Сергей\GIK\Лекции\Examples2\Exemmple001_HelloConsole\bin\Debug\net7.0\Exemmple001_HelloConsole.deps.json
+C:\Сергей\GIK\Лекции\Examples2\Exemmple001_HelloConsole\bin\Debug\net7.0\Exemmple001_HelloConsole.runtimeconfig.json
+C:\Сергей\GIK\Лекции\Examples2\Exemmple001_HelloConsole\bin\Debug\net7.0\Exemmple001_HelloConsole.dll
+C:\Сергей\GIK\Лекции\Examples2\Exemmple001_HelloConsole\bin\Debug\net7.0\Exemmple001_HelloConsole.pdb
+C:\Сергей\GIK\Лекции\Examples2\Exemmple001_HelloConsole\obj\Debug\net7.0\Exemmple001_HelloConsole.csproj.AssemblyReference.cache
+C:\Сергей\GIK\Лекции\Examples2\Exemmple001_HelloConsole\obj\Debug\net7.0\Exemmple001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Сергей\GIK\Лекции\Examples2\Exemmple001_HelloConsole\obj\Debug\net7.0\Exemmple001_HelloConsole.AssemblyInfoInputs.cache
+C:\Сергей\GIK\Лекции\Examples2\Exemmple001_HelloConsole\obj\Debug\net7.0\Exemmple001_HelloConsole.AssemblyInfo.cs
+C:\Сергей\GIK\Лекции\Examples2\Exemmple001_HelloConsole\obj\Debug\net7.0\Exemmple001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Сергей\GIK\Лекции\Examples2\Exemmple001_HelloConsole\obj\Debug\net7.0\Exemmple001_HelloConsole.dll
+C:\Сергей\GIK\Лекции\Examples2\Exemmple001_HelloConsole\obj\Debug\net7.0\refint\Exemmple001_HelloConsole.dll
+C:\Сергей\GIK\Лекции\Examples2\Exemmple001_HelloConsole\obj\Debug\net7.0\Exemmple001_HelloConsole.pdb
+C:\Сергей\GIK\Лекции\Examples2\Exemmple001_HelloConsole\obj\Debug\net7.0\Exemmple001_HelloConsole.genruntimeconfig.cache
+C:\Сергей\GIK\Лекции\Examples2\Exemmple001_HelloConsole\obj\Debug\net7.0\ref\Exemmple001_HelloConsole.dll
