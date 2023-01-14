@@ -1,0 +1,15 @@
+C:\Сергей\GIK\Лекции\Examples2\Example002_Sum\bin\Debug\net7.0\Example002_Sum.exe
+C:\Сергей\GIK\Лекции\Examples2\Example002_Sum\bin\Debug\net7.0\Example002_Sum.deps.json
+C:\Сергей\GIK\Лекции\Examples2\Example002_Sum\bin\Debug\net7.0\Example002_Sum.runtimeconfig.json
+C:\Сергей\GIK\Лекции\Examples2\Example002_Sum\bin\Debug\net7.0\Example002_Sum.dll
+C:\Сергей\GIK\Лекции\Examples2\Example002_Sum\bin\Debug\net7.0\Example002_Sum.pdb
+C:\Сергей\GIK\Лекции\Examples2\Example002_Sum\obj\Debug\net7.0\Example002_Sum.csproj.AssemblyReference.cache
+C:\Сергей\GIK\Лекции\Examples2\Example002_Sum\obj\Debug\net7.0\Example002_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Сергей\GIK\Лекции\Examples2\Example002_Sum\obj\Debug\net7.0\Example002_Sum.AssemblyInfoInputs.cache
+C:\Сергей\GIK\Лекции\Examples2\Example002_Sum\obj\Debug\net7.0\Example002_Sum.AssemblyInfo.cs
+C:\Сергей\GIK\Лекции\Examples2\Example002_Sum\obj\Debug\net7.0\Example002_Sum.csproj.CoreCompileInputs.cache
+C:\Сергей\GIK\Лекции\Examples2\Example002_Sum\obj\Debug\net7.0\Example002_Sum.dll
+C:\Сергей\GIK\Лекции\Examples2\Example002_Sum\obj\Debug\net7.0\refint\Example002_Sum.dll
+C:\Сергей\GIK\Лекции\Examples2\Example002_Sum\obj\Debug\net7.0\Example002_Sum.pdb
+C:\Сергей\GIK\Лекции\Examples2\Example002_Sum\obj\Debug\net7.0\Example002_Sum.genruntimeconfig.cache
+C:\Сергей\GIK\Лекции\Examples2\Example002_Sum\obj\Debug\net7.0\ref\Example002_Sum.dll
