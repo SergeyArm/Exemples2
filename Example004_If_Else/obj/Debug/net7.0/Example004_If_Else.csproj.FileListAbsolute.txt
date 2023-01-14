@@ -1,0 +1,15 @@
+C:\Сергей\GIK\Лекции\Examples2\Example004_If_Else\obj\Debug\net7.0\Example004_If_Else.csproj.AssemblyReference.cache
+C:\Сергей\GIK\Лекции\Examples2\Example004_If_Else\obj\Debug\net7.0\Example004_If_Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Сергей\GIK\Лекции\Examples2\Example004_If_Else\obj\Debug\net7.0\Example004_If_Else.AssemblyInfoInputs.cache
+C:\Сергей\GIK\Лекции\Examples2\Example004_If_Else\obj\Debug\net7.0\Example004_If_Else.AssemblyInfo.cs
+C:\Сергей\GIK\Лекции\Examples2\Example004_If_Else\obj\Debug\net7.0\Example004_If_Else.csproj.CoreCompileInputs.cache
+C:\Сергей\GIK\Лекции\Examples2\Example004_If_Else\bin\Debug\net7.0\Example004_If_Else.exe
+C:\Сергей\GIK\Лекции\Examples2\Example004_If_Else\bin\Debug\net7.0\Example004_If_Else.deps.json
+C:\Сергей\GIK\Лекции\Examples2\Example004_If_Else\bin\Debug\net7.0\Example004_If_Else.runtimeconfig.json
+C:\Сергей\GIK\Лекции\Examples2\Example004_If_Else\bin\Debug\net7.0\Example004_If_Else.dll
+C:\Сергей\GIK\Лекции\Examples2\Example004_If_Else\bin\Debug\net7.0\Example004_If_Else.pdb
+C:\Сергей\GIK\Лекции\Examples2\Example004_If_Else\obj\Debug\net7.0\Example004_If_Else.dll
+C:\Сергей\GIK\Лекции\Examples2\Example004_If_Else\obj\Debug\net7.0\refint\Example004_If_Else.dll
+C:\Сергей\GIK\Лекции\Examples2\Example004_If_Else\obj\Debug\net7.0\Example004_If_Else.pdb
+C:\Сергей\GIK\Лекции\Examples2\Example004_If_Else\obj\Debug\net7.0\Example004_If_Else.genruntimeconfig.cache
+C:\Сергей\GIK\Лекции\Examples2\Example004_If_Else\obj\Debug\net7.0\ref\Example004_If_Else.dll
